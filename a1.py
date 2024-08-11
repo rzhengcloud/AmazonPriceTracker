@@ -1,6 +1,8 @@
 #RZ from 8/10/2024 v1
 
 #RZ from web directly! v2
+
+# * * * * * * * * v3
 from bs4 import BeautifulSoup
 import requests
 
