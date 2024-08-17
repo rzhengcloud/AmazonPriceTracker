@@ -1,7 +1,9 @@
 #4th branch!
 
-
-# ~ ~ ~ ~ main branch
+#RZ from web directly! v2
+#RZ 2nd_br update 8/17/2024
+# * * * * * * * * v3
+      <main>
 
 from bs4 import BeautifulSoup
 import requests
